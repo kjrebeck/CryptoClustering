@@ -4,7 +4,6 @@
 This project involves clustering cryptocurrency data to identify different groups or clusters of cryptocurrencies based on their price change patterns over time. The analysis is conducted using the K-Means clustering algorithm and involves both feature scaling and dimensionality reduction techniques like Principal Component Analysis (PCA) to optimize the clustering process.
 
 ## Libraries/Language
-To run this notebook, you'll need to have the following dependencies installed:
 
 - Python 3.12
 - Jupyter Notebook
@@ -34,4 +33,4 @@ The notebook follows these steps:
 * Chat GBT for plotting using hvplot and readMe template
 
 ## License
-This project is open-source and available under the MIT License.
+GNU GENERAL PUBLIC LICENSE.
