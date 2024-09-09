@@ -22,9 +22,9 @@ The notebook follows these steps:
 7. **Visualization**: Visualizes the clustering results using scatter plots to compare the original features and PCA-reduced features.
 
 ## Results
-* **Elbow Curve Analysis*: Indicates that the optimal number of clusters is 4, both for the original scaled dataset and the PCA-reduced scaled dataset.
-* **Cluster Visualizations*: Show that the clusters formed using PCA-transformed dataset closely match those formed using the original scaled data, confirming that the dimensionality reduction retained the critical variance in the data.
-* **Conclusion*: Using PCA for feature reduction does not significantly impact the clustering quality, making it a suitable choice for reducing computational complexity while preserving performance.
+**Elbow Curve Analysis*: Indicates that the optimal number of clusters is 4, both for the original scaled dataset and the PCA-reduced scaled dataset.
+**Cluster Visualizations*: Show that the clusters formed using PCA-transformed dataset closely match those formed using the original scaled data, confirming that the dimensionality reduction retained the critical variance in the data.
+**Conclusion*: Using PCA for feature reduction does not significantly impact the clustering quality, making it a suitable choice for reducing computational complexity while preserving performance.
 
 ## Works Cited
 * Chat GBT for plotting using hvplot and readMe template
